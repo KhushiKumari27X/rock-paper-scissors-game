@@ -11,6 +11,8 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript with sco
 - HTML
 - CSS
 - JavaScript
+## Preview
+![Rock Paper Scissors Game](./ui.png)
 
 ## How to Run
 Open `index.html` in your browser
