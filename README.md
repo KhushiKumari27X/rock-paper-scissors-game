@@ -2,7 +2,7 @@
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript with score tracking.
 
 ##  Live Demo
- https://khushikumari27x.github.io/tic-tac-toe-game/
+ https://khushikumari27x.github.io/rock-paper-scissors-game/
 
  ## Preview
 ![Rock Paper Scissors Game](./ui.png)
